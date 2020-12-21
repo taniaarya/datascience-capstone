@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Citi Bike Ridership & Public Safety During COVID-19
 
-You can use the [editor on GitHub](https://github.com/taniaarya/datascience-capstone/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In the face of our nation's ongoing battle with the public health crisis, COVID-19, the Citi Bike electric rental bike stations in New York City, NY are still in business. These bikes are points of human contact and unfortunately can serve as vectors for the spread of germs and viruses such as COVID-19. Citi Bike is privately owned by Lyft, but is a public bike sharing system that leverages mobile technology to serve regions in the Bronx, Manhattan, Queens, and Jersey City, NJ. Their organization and technical capabilities extend beyond their app and into the realm of data collection as the company stores detailed information on all bike rides since 2013. Their faithful data collection offers an interesting dataset to conduct further analysis to gain insights on anything from coordinate data, station locations, gender analysis of riders, and even the durations of trips.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However, for the purposes of our analysis, we would like to answer the question: How has Citi Bike ridership behavior changed after the start of the COVID-19 pandemic? More generally, we would like to use insights gained from our data to see if we can increase the safety of Citi Bike locations in terms of minimizing the spread of the virus.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This respository contains a tutorial walking through the data science pipeline using Citi Bike ridership data. You can visit this tutorial at [this website](https://taniaarya.github.io/datascience-capstone/).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taniaarya/datascience-capstone/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Authors: Tania Arya and Mausam Patel
